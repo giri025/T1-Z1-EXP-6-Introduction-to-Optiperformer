@@ -68,12 +68,13 @@ The system includes:
 
 <img width="1273" height="1412" alt="image" src="https://github.com/user-attachments/assets/16a3e08b-3e5b-4c33-8aba-ba6d20f09fe2" />
 
-## MODEL GRAPH
+## BLOCK DIAGRAM
+
 <img width="1089" height="562" alt="image" src="https://github.com/user-attachments/assets/0165a165-d39a-409c-a9f3-6e22656f1f19" />
 
 ---
 
-## GRAPH 
+## OUTPUT  
 <img width="940" height="335" alt="image" src="https://github.com/user-attachments/assets/f6ecb75a-be76-41e7-9916-b63737e61585" />
 <img width="940" height="326" alt="image" src="https://github.com/user-attachments/assets/e14c8215-bb41-44be-9ef4-4206ee2e3811" />
 <img width="1728" height="677" alt="image" src="https://github.com/user-attachments/assets/805ede93-a37f-4156-8329-f55fa30dde5b" />
